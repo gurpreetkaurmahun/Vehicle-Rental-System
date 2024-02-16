@@ -1,0 +1,86 @@
+Regno: B23Der, Make: Honda, Model: ER45, Price per day: 10, Booking Schedule: 12/12/2023 12:00:00 AM - 12/15/2023 12:00:00 AM
+Regno: A34ARM, Make: BMX, Model: EZ55, Price per day: 200, Booking Schedule: 12/12/2023 12:00:00 AM - 12/15/2023 12:00:00 AM
+Regno: B23Der, Make: Honda, Model: ER45, Price per day: 10, Booking Schedule: 12/16/2023 12:00:00 AM - 12/20/2023 12:00:00 AM
+Regno: A34ARM, Make: BMX, Model: EZ55, Price per day: 200, Booking Schedule: 12/17/2023 12:00:00 AM - 12/19/2023 12:00:00 AM
+Regno: B23Der, Make: Honda, Model: ER45, Price per day: 10, Booking Schedule: 12/21/2023 12:00:00 AM - 12/23/2023 12:00:00 AM
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/12/202312/15/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/202312/15/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/17/202312/19/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/202312/19/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/21/202312/23/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/12/2023  && 12/15/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/17/2023  && 12/19/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/21/2023  && 12/23/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/12/2023  && 12/15/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/17/2023  && 12/19/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/21/2023  && 12/23/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/12/2023  && 12/15/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/17/2023  && 12/19/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/21/2023  && 12/23/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/12/2023  && 12/15/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/17/2023  && 12/19/2023
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/21/2023  && 12/23/2023
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/12/2023  && 12/15/2023 800
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023 800
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/17/2023  && 12/19/2023 600
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023 600
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/21/2023  && 12/23/2023 30
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/12/2023  && 12/15/2023 800
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023 800
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/17/2023  && 12/19/2023 600
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023 600
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/21/2023  && 12/23/2023 30
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/12/2023  && 12/15/2023 
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023 
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/17/2023  && 12/19/2023 
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023 
+RegnoB23Der MakeHonda ModelER45Price perday10 Booking Schedule12/21/2023  && 12/23/2023 
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/12/2023  && 12/15/2023 
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023 
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/17/2023  && 12/19/2023 
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023 
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/21/2023  && 12/23/2023 
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule44
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule800
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule33
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule600
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/21/2023  && 12/23/2023, Price for Booked Schedule33
+RegnoMW234 MakeZEMR ModelMODELPrice perday100 Booking Schedule10/10/2023  && 10/13/2023, Price for Booked Schedule400
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule44
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule800
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule33
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule600
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/21/2023  && 12/23/2023, Price for Booked Schedule33
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule44
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule800
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule33
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule600
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/21/2023  && 12/23/2023, Price for Booked Schedule33
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule44
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule800
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule33
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule600
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/21/2023  && 12/23/2023, Price for Booked Schedule33
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule44
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule800
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule33
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule600
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/21/2023  && 12/23/2023, Price for Booked Schedule33
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule44
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule800
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule33
+RegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule600
+RegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/21/2023  && 12/23/2023, Price for Booked Schedule33
+frtffffffRegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule44
+frtffffffRegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/12/2023  && 12/15/2023, Price for Booked Schedule800
+frtffffffRegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule33
+frtffffffRegnoA34ARM MakeBMX ModelEZ55Price perday200 Booking Schedule12/17/2023  && 12/19/2023, Price for Booked Schedule600
+frtffffffRegnoB23Der MakeHonda ModelER45Price perday11 Booking Schedule12/21/2023  && 12/23/2023, Price for Booked Schedule33

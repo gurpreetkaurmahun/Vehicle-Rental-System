@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F063AC0D-C7FA-4F54-B6D4-B5AA325C1D69}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OOPCoursework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../OOPCoursework 2/OOPCoursework/WestminsterRentalVehice.cs">
+    <Files>
+      <File FileName="../../OOPCoursework 2/OOPCoursework/WestminsterRentalVehice.cs" Line="96" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="OOPCoursework" expanded="True">
+            <Node name="OOPCoursework" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

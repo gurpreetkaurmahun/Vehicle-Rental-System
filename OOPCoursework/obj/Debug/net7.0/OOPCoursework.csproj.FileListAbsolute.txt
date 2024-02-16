@@ -1,0 +1,15 @@
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/bin/Debug/net7.0/OOPCoursework
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/bin/Debug/net7.0/OOPCoursework.deps.json
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/bin/Debug/net7.0/OOPCoursework.runtimeconfig.json
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/bin/Debug/net7.0/OOPCoursework.dll
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/bin/Debug/net7.0/OOPCoursework.pdb
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/OOPCoursework.csproj.AssemblyReference.cache
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/OOPCoursework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/OOPCoursework.AssemblyInfoInputs.cache
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/OOPCoursework.AssemblyInfo.cs
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/OOPCoursework.csproj.CoreCompileInputs.cache
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/OOPCoursework.dll
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/refint/OOPCoursework.dll
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/OOPCoursework.pdb
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/OOPCoursework.genruntimeconfig.cache
+/Users/gurpreetkaurmahun/Projects/OOPCoursework/OOPCoursework/obj/Debug/net7.0/ref/OOPCoursework.dll
